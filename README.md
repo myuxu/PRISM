@@ -195,14 +195,6 @@ PRISM generates a complete set of files ready for MD simulation:
 - Ensure input files are properly formatted
 - Verify all dependencies are correctly installed
 
-## Citation
-
-If you use PRISM in your research, please cite:
-
-- GAFF: Wang et al. (2004) J. Comput. Chem. 25, 1157-1174
-- OpenFF: Open Force Field Initiative (https://openforcefield.org)
-- GROMACS: Abraham et al. (2015) SoftwareX 1-2, 19-25
-
 ## License
 
 PRISM is released under the MIT License. Force field parameters are subject to their respective licenses.
