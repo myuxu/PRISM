@@ -6,8 +6,6 @@ PRISM is a comprehensive tool for building protein-ligand systems for molecular 
 
 - Multiple Force Field Support
 
-  :
-
   - GAFF via AmberTools
   - OpenFF via openff-toolkit
 
