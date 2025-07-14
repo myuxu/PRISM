@@ -5,18 +5,12 @@ PRISM is a comprehensive tool for building protein-ligand systems for molecular 
 ## Features
 
 - Multiple Force Field Support
-
   - GAFF via AmberTools
   - OpenFF via openff-toolkit
-
 - **Automatic System Building**: Complete workflow from PDB/MOL2/SDF to simulation-ready files
-
 - **Flexible Configuration**: YAML-based configuration for easy customization
-
 - **Smart File Processing**: Handles various input formats with automatic conversion
-
 - **Position Restraints**: Automatic generation for equilibration protocols
-
 - **Complete MDP Files**: Pre-configured protocols for minimization, equilibration, and production
 
 ## Installation
@@ -194,6 +188,14 @@ PRISM generates a complete set of files ready for MD simulation:
 - Check the log files in the output directory
 - Ensure input files are properly formatted
 - Verify all dependencies are correctly installed
+
+## Citation
+
+If you use PRISM in your research, please cite:
+
+- GAFF: Wang et al. (2004) J. Comput. Chem. 25, 1157-1174
+- OpenFF: Open Force Field Initiative (https://openforcefield.org)
+- GROMACS: Abraham et al. (2015) SoftwareX 1-2, 19-25
 
 ## License
 
