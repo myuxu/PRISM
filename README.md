@@ -193,7 +193,7 @@ PRISM generates a complete set of files ready for MD simulation:
 
 If you use PRISM in your research, please cite:
 
-```bash
+```LaTeX
 @software{PRISM,
   author       = {Institute of Quantitative Biology, Zhejiang University},
   title        = {PRISM: An Integrated Framework for High-Throughput Protein-Ligand Simulation Setup and Molecular Simulation-Based Drug Virtual Screening},
