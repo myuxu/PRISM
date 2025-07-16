@@ -193,9 +193,15 @@ PRISM generates a complete set of files ready for MD simulation:
 
 If you use PRISM in your research, please cite:
 
-- GAFF: Wang et al. (2004) J. Comput. Chem. 25, 1157-1174
-- OpenFF: Open Force Field Initiative (https://openforcefield.org)
-- GROMACS: Abraham et al. (2015) SoftwareX 1-2, 19-25
+```bash
+@software{PRISM,
+  author       = {Institute of Quantitative Biology, Zhejiang University},
+  title        = {PRISM: An Integrated Framework for High-Throughput Protein-Ligand Simulation Setup and Molecular Simulation-Based Drug Virtual Screening},
+  year         = {2025},
+  publisher    = {GitHub},
+  url          = {https://github.com/aib001/PRISM}
+}
+```
 
 ## License
 
