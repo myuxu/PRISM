@@ -15,8 +15,7 @@ Analysis modules:
 - pmf_analyze_smd() - Analyze SMD force profiles
 - pmf_analyze_pmf() - Analyze final PMF results
 
-Author: PRISM Team (Step-by-Step API)
-Version: 5.1 (Optimized)
+Author: PRISM Team 
 """
 
 import os
